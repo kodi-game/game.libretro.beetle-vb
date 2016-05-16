@@ -7,11 +7,7 @@
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="game.libretro.beetle-vb.so"
-                   library_linux="game.libretro.beetle-vb.so"
-                   library_osx="game.libretro.beetle-vb.dylib"
-                   library_windx="game.libretro.beetle-vb.dll"
-                   library_wingl="game.libretro.beetle-vb.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>GB</platforms>
 		<extensions>gb</extensions>
 		<supports_vfs>true</supports_vfs>
@@ -20,6 +16,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Beetle-vb v1.0.1</summary>
 		<description>Source: https://github.com/libretro/beetle-vb-libretro</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
