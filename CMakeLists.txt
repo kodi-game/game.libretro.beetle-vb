@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.beetle-vb)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(beetle-vb
                     BUILD_IN_SOURCE 1)
 
 set(BEETLEVB_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/beetle-vb/src/beetle-vb/mednafen_vb_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                           game.libretro.beetle-vb${CMAKE_SHARED_LIBRARY_SUFFIX} beetle-vb)
+                           ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.beetle-vb BEETLEVB DEPLIBS)
-add_dependencies(game.libretro.beetle-vb beetle-vb)
-
-include(CPack)
+build_addon(${PROJECT_NAME} BEETLEVB DEPLIBS)
+add_dependencies(${PROJECT_NAME} beetle-vb)
