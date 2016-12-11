@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Virtual Boy (Mednafen VB) v0.9.36.1</summary>
+		<summary lang="en">Virtual Boy (Mednafen VB) v0.9.36.1 bffbd54</summary>
 		<description>Source: https://github.com/libretro/beetle-vb-libretro
 
 Supported files: .vb, .vboy, .bin</description>
