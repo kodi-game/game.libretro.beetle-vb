@@ -27,3 +27,4 @@ msgstr ""
 msgctxt "#30002"
 msgid "Palette (restart)"
 msgstr ""
+
