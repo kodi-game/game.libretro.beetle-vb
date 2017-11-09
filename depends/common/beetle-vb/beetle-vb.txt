@@ -1,1 +1,1 @@
-beetle-vb https://github.com/libretro/beetle-vb-libretro master
+beetle-vb https://github.com/garbear/beetle-vb-libretro fix-compile
