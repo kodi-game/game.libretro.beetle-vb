@@ -29,6 +29,6 @@ msgid "Palette (restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Right Analog to Digital"
+msgid "Right analog to digital"
 msgstr ""
 
