@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-vb"
-		name="Virtual Boy (Beetle VB)"
+		name="Nintendo - Virtual Boy (Beetle VB)"
 		version="0.9.36"
 		provider-name="Libretro">
 	<requires>
@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Virtual Boy (Beetle VB) v0.9.36.1</summary>
+		<summary lang="en">Nintendo - Virtual Boy (Beetle VB) v0.9.36.1</summary>
 		<description>Source: https://github.com/libretro/beetle-vb-libretro
 
 Supported files: .vb, .vboy, .bin</description>
