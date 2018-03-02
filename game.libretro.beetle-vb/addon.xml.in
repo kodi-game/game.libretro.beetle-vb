@@ -14,8 +14,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Nintendo - Virtual Boy (Beetle VB) v0.9.36.1</summary>
-		<description>Source: https://github.com/libretro/beetle-vb-libretro
+		<summary lang="en_GB">Nintendo - Virtual Boy (Beetle VB) v0.9.36.1</summary>
+		<description lang="en_GB">Source: https://github.com/libretro/beetle-vb-libretro
 
 Supported files: .vb, .vboy, .bin</description>
 		<license>GPLv2</license>
