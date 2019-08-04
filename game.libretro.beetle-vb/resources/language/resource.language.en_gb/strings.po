@@ -21,13 +21,21 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Anaglyph preset (restart)"
+msgid "3D mode"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Palette (restart)"
+msgid "Anaglyph preset"
 msgstr ""
 
 msgctxt "#30003"
+msgid "Palette"
+msgstr ""
+
+msgctxt "#30004"
+msgid "CPU emulation  (Restart)"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Right analog to digital"
 msgstr ""
