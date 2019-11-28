@@ -37,5 +37,9 @@ msgid "CPU emulation  (Restart)"
 msgstr ""
 
 msgctxt "#30005"
+msgid "LED brightness"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Right analog to digital"
 msgstr ""
