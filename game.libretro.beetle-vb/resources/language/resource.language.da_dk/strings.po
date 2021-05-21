@@ -34,9 +34,9 @@ msgid "Palette"
 msgstr ""
 
 msgctxt "#30004"
-msgid "CPU emulation  (Restart)"
+msgid "Right analog to digital"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Right analog to digital"
+msgid "CPU emulation  (Restart)"
 msgstr ""
