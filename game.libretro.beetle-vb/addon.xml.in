@@ -24,6 +24,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Virtual Boy (Beetle VB) v1.27.1</summary>
-		<description lang="en_GB"> Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic &quot;3D&quot; graphics.</description>
+		<description lang="en_GB">Source: https://github.com/libretro/beetle-vb-libretro[CR][CR]Supported files: .vb, .vboy, .bin</description>
 	</extension>
 </addon>
