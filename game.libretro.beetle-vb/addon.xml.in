@@ -24,6 +24,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Virtual Boy (Beetle VB) v1.27.1</summary>
-		<description lang="en_GB">Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic &quot;3D&quot; graphics.</description>
+		<description lang="en_GB">Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic &#34;3D&#34; graphics.</description>
 	</extension>
 </addon>
