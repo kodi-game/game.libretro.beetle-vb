@@ -22,7 +22,7 @@ msgid "Nintendo - Virtual Boy (Beetle VB) v1.27.1"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic \"3D\" graphics."
+msgid "Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic &#34;3D&#34; graphics."
 msgstr ""
 
 msgctxt "#30000"
