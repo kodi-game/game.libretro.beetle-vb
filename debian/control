@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-beetle-vb (>= 1.27.1) | beetle-vb (>= 1.27.1)
+               libretro-beetle-vb (>= 1.31.0) | beetle-vb (>= 1.31.0)
 Standards-Version: 3.9.8
 Section: libs
 
