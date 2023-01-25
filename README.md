@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-vb/resources/icon.png)
+![Nintendo - Virtual Boy (Beetle VB) icon](game.libretro.beetle-vb/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.beetle-vb/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.beetle-vb/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.beetle-vb/resources/screenshot-03.jpg)
+![Nintendo - Virtual Boy (Beetle VB) screenshot](game.libretro.beetle-vb/resources/screenshot-01.jpg)
+![Nintendo - Virtual Boy (Beetle VB) screenshot](game.libretro.beetle-vb/resources/screenshot-02.jpg)
+![Nintendo - Virtual Boy (Beetle VB) screenshot](game.libretro.beetle-vb/resources/screenshot-03.jpg)
