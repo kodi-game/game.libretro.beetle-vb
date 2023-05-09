@@ -24,6 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="en_GB">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="es_ES">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<description lang="da_DK">Beetle VB emulerer Nintendo Virtual Boy, en tabletop spillekonsol, der er i stand til at vise stereoskopisk 3D-grafik.</description>
