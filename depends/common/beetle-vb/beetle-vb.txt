@@ -1,1 +1,1 @@
-beetle-vb https://github.com/libretro/beetle-vb-libretro/archive/dd6393f76ff781df0f4e8c953f5b053b1e61b313.tar.gz
+beetle-vb https://github.com/libretro/beetle-vb-libretro/archive/732a8f701e671bf032165730fdf8bd96fb5ca7bb.tar.gz
