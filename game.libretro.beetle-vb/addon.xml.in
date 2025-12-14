@@ -30,6 +30,7 @@
 		<summary lang="ga">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="it_IT">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="ko_KR">닌텐도 - 버추얼 보이 (비틀 VB)</summary>
+		<summary lang="ru_RU">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="sv_SE">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="zh_CN">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<description lang="da_DK">Beetle VB emulerer Nintendo Virtual Boy, en tabletop spillekonsol, der er i stand til at vise stereoskopisk 3D-grafik.</description>
@@ -39,6 +40,7 @@
 		<description lang="ga">Déanann Beetle VB aithris ar an Nintendo Virtual Boy, consól cluichí físeáin boird atá in ann grafaicí 3T steiréascópacha a thaispeáint.</description>
 		<description lang="it_IT">Beetle VB emula il Nintendo Virtual Boy, una console per videogiochi da tavolo in grado di visualizzare grafica 3D stereoscopica.</description>
 		<description lang="ko_KR">비틀 VB는 스테레오스코픽 &quot;3D &quot;를 표시할 수 있는 탁상용 비디오 게임 콘솔인 Nintendo Virtual Boy를 에뮬레이트합니다.</description>
+		<description lang="ru_RU">Beetle VB эмулирует Nintendo Virtual Boy — настольную игровую консоль, способную отображать стереоскопическую 3D-графику.</description>
 		<description lang="sl_SI">Beetle VB posnema Nintendo Virtual Boy, namizno video igralno konzolo, ki lahko prikazuje stereoskopsko 3D grafiko.</description>
 		<description lang="sv_SE">Beetle VB emulerar Nintendo Virtual Boy, en bordsspelkonsol som kan visa stereoskopisk 3D-grafik.</description>
 		<description lang="zh_CN">Beetle VB 模拟了任天堂 Virtual Boy，一款能够显示立体3D图形的桌面视频游戏机。</description>
