@@ -44,3 +44,7 @@ msgstr ""
 msgctxt "#30005"
 msgid "CPU emulation  (Restart)"
 msgstr ""
+
+msgctxt "#30006"
+msgid "Side-by-side separation"
+msgstr ""

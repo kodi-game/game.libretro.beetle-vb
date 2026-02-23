@@ -45,6 +45,10 @@ msgctxt "#30005"
 msgid "CPU emulation  (Restart)"
 msgstr "CPU 에뮬레이션  (다시 시작)"
 
+msgctxt "#30006"
+msgid "Side-by-side separation"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"
