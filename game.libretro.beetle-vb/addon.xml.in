@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="da_DK">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="en_GB">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="es_ES">Nintendo - Virtual Boy (Beetle VB)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="sv_SE">Nintendo - Virtual Boy (Beetle VB)</summary>
 		<summary lang="zh_CN">Nintendo - Virtual Boy (Beetle VB)</summary>
+		<description lang="cs_CZ">Beetle VB emuluje Nintendo Virtual Boy, stolní herní konzoli schopnou zobrazovat stereoskopickou 3D grafiku.</description>
 		<description lang="da_DK">Beetle VB emulerer Nintendo Virtual Boy, en tabletop spillekonsol, der er i stand til at vise stereoskopisk 3D-grafik.</description>
 		<description lang="de_DE">Beetle VB emuliert den Nintendo Virtual Boy, eine Tabletop-Videospielkonsole, die stereoskopische 3D-Grafiken darstellen kann.</description>
 		<description lang="en_GB">Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic 3D graphics.</description>
