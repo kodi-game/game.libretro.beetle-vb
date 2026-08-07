@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic 3D graphics."
 msgstr "비틀 VB는 스테레오스코픽 \"3D \"를 표시할 수 있는 탁상용 비디오 게임 콘솔인 Nintendo Virtual Boy를 에뮬레이트합니다."
 
-msgctxt "#30001"
-msgid "3D mode"
-msgstr "3D 모드"
-
 msgctxt "#30002"
 msgid "Anaglyph preset"
 msgstr "애너글리프 사전 설정"
@@ -48,6 +44,18 @@ msgstr "CPU 에뮬레이션  (다시 시작)"
 msgctxt "#30006"
 msgid "Side-by-side separation"
 msgstr ""
+
+msgctxt "#30007"
+msgid "3D mode (requires restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Allow Opposite Directions"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "3D mode"
+#~ msgstr "3D 모드"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

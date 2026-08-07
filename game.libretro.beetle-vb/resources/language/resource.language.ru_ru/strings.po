@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle VB emulates the Nintendo Virtual Boy, a tabletop video game console capable of displaying stereoscopic 3D graphics."
 msgstr "Beetle VB эмулирует Nintendo Virtual Boy — настольную игровую консоль, способную отображать стереоскопическую 3D-графику."
 
-msgctxt "#30001"
-msgid "3D mode"
-msgstr "3D Режим"
-
 msgctxt "#30002"
 msgid "Anaglyph preset"
 msgstr "Анаглифная предустановка"
@@ -48,6 +44,18 @@ msgstr "Эмуляция ЦП (перезапуск)"
 msgctxt "#30006"
 msgid "Side-by-side separation"
 msgstr "Разделение бок о бок"
+
+msgctxt "#30007"
+msgid "3D mode (requires restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Allow Opposite Directions"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "3D mode"
+#~ msgstr "3D Режим"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
