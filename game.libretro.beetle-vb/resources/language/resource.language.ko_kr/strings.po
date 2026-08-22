@@ -53,6 +53,26 @@ msgctxt "#30008"
 msgid "Allow Opposite Directions"
 msgstr ""
 
+msgctxt "#30009"
+msgid "Select the 3D mode. Anaglyph - used in conjunction with classic dual-lens-color glasses. Cyberscope - intended for use with the CyberScope 3D device. sidebyside - the left-eye image is displayed on the left, and the right-eye image is displayed on the right. vli - Vertical lines alternate between left and right view. hli - Horizontal lines alternate between left and right view."
+msgstr ""
+
+msgctxt "#30010"
+msgid "Anaglyph preset colors."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Number of pixels to separate left and right views in side-by-side 3D mode."
+msgstr ""
+
+msgctxt "#30012"
+msgid "Allow pressing up and down or left and right directions at the same time. This may cause glitches."
+msgstr ""
+
+msgctxt "#30013"
+msgid "Choose between faster and accurate (slower) emulation."
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "3D mode"
 #~ msgstr "3D 모드"
