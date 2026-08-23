@@ -22,12 +22,12 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>red &amp; blue</option>
-							<option>red &amp; cyan</option>
-							<option>red &amp; electric cyan</option>
-							<option>green &amp; magenta</option>
-							<option>yellow &amp; blue</option>
+							<option label="13106">disabled</option>
+							<option label="30014">red &amp; blue</option>
+							<option label="30015">red &amp; cyan</option>
+							<option label="30016">red &amp; electric cyan</option>
+							<option label="30017">green &amp; magenta</option>
+							<option label="30018">yellow &amp; blue</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -128,11 +128,11 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
-							<option>invert x</option>
-							<option>invert y</option>
-							<option>invert both</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+							<option label="30019">invert x</option>
+							<option label="30020">invert y</option>
+							<option label="30021">invert both</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -142,8 +142,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
