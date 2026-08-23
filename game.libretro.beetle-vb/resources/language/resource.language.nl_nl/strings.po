@@ -73,6 +73,38 @@ msgctxt "#30013"
 msgid "Choose between faster and accurate (slower) emulation."
 msgstr ""
 
+msgctxt "#30014"
+msgid "red & blue"
+msgstr ""
+
+msgctxt "#30015"
+msgid "red & cyan"
+msgstr ""
+
+msgctxt "#30016"
+msgid "red & electric cyan"
+msgstr ""
+
+msgctxt "#30017"
+msgid "green & magenta"
+msgstr ""
+
+msgctxt "#30018"
+msgid "yellow & blue"
+msgstr ""
+
+msgctxt "#30019"
+msgid "invert x"
+msgstr ""
+
+msgctxt "#30020"
+msgid "invert y"
+msgstr ""
+
+msgctxt "#30021"
+msgid "invert both"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Instellingen"
