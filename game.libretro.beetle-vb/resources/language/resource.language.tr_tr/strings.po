@@ -27,19 +27,19 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Anaglyph preset"
-msgstr ""
+msgstr "Anaglif Ön ayarı"
 
 msgctxt "#30003"
 msgid "Palette"
-msgstr ""
+msgstr "Palet"
 
 msgctxt "#30004"
 msgid "Right analog to digital"
-msgstr ""
+msgstr "Dijital sağ analog"
 
 msgctxt "#30005"
 msgid "CPU emulation  (Restart)"
-msgstr ""
+msgstr "CPU emülasyonu (Yeniden başlatma gerekir)"
 
 msgctxt "#30006"
 msgid "Side-by-side separation"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "3D mode (requires restart)"
-msgstr ""
+msgstr "3B modu"
 
 msgctxt "#30008"
 msgid "Allow Opposite Directions"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Anaglyph preset colors."
-msgstr ""
+msgstr "Anaglif önceden ayarlanmış renkler."
 
 msgctxt "#30011"
 msgid "Number of pixels to separate left and right views in side-by-side 3D mode."
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Choose between faster and accurate (slower) emulation."
-msgstr ""
+msgstr "Daha hızlı ve doğru (daha yavaş) emülasyon arasında seçim yapın."
 
 msgctxt "#30014"
 msgid "red & blue"
@@ -103,4 +103,16 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "invert both"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Select the 3D mode. Anaglyph - used in conjunction with classic dual-lens-color glasses. Cyberscope - intended for use with the CyberScope 3D device. sidebyside - the left-eye image is displayed on the left, and the right-eye image is displayed on the right. vli - Vertical lines alternate between left and right view. hli - Horizontal lines alternate between left and right view. Does not apply to VR mode."
+msgstr "3B modunu seçin. Anaglif - klasik çift lens renkli camlarla birlikte kullanılır. Cyberscope - CyberScope ile kullanılmak üzere tasarlanan 3B cihaz. sidebyside - sol göz resmi solda ve sağ göz resmi sağda görüntülenir. vli - Dikey çizgiler sol ve sağ görünüm arasında değişir. hli - Yatay çizgiler sol ve sağ görünüm arasında değişir."
+
+msgctxt "#30023"
+msgid "VR"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Enabled shows both eyes as a stereo screen whenever the frontend presents them, in a headset or a stereo display mode. Disabled keeps the chosen 3D mode."
 msgstr ""

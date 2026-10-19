@@ -3,7 +3,7 @@
 	<section id="game.libretro.beetle-vb">
 		<category id="general" label="128">
 			<group id="1">
-				<setting id="vb_3dmode" type="string" label="30007" help="30009">
+				<setting id="vb_3dmode" type="string" label="30007" help="30022">
 					<level>0</level>
 					<default>anaglyph</default>
 					<constraints>
@@ -155,6 +155,17 @@
 						<options>
 							<option>accurate</option>
 							<option>fast</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="vb_vr" type="string" label="30023" help="30024">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
