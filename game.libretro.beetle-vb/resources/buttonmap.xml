@@ -13,7 +13,7 @@
 		<feature name="rightdown" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
 		<feature name="rightright" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
 		<feature name="rightleft" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
-		<feature name="lefbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+		<feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
 		<feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
 	</controller>
 </buttonmap>
